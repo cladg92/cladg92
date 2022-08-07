@@ -1,17 +1,14 @@
 ### Hi there! I'm Clara Di Gregorio 👋
 
-<!--
-**cladg92/cladg92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌍 I'm an Italian web developer based in Germany
+- 🧬 I'm passionate about science, nature and programming
+- 🎓 I hold a Master's degree in Environmental Biology
+- 👯 I’m open for collaboration in open source projects
+- 🗣️ I like learning languages
+- 📫 You can find my contact details and more [here] (https://www.claradigregorio.com).
 
-- :round_pushpin:
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+
