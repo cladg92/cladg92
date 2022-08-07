@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="R" **alt="R" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:QGIS_logo_new.svg" title="QGIS" **alt="QGIS" width="40" height="40"/>
 </div>
 
 
