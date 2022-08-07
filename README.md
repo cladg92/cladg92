@@ -11,6 +11,8 @@
 
 ## Skills
 
-[[](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
