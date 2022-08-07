@@ -1,7 +1,7 @@
 # Hi there! I'm Clara Di Gregorio 👋
 
 <div id="header" >
-  <a href="https://www.linkedin.com/in/claradg">
+  <a href="https://www.linkedin.com/in/claradg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
