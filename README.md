@@ -22,7 +22,7 @@
 <div id="skills" >
     <figure>
     <img style="width: 50px; vertical-align: top;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS"/>
-    <figcaption>JavaScript</figcaption>
+    <figcaption style="text-align: center">JavaScript</figcaption>
 </figure>    
 </div> 
 
