@@ -4,8 +4,7 @@
   <a href="https://www.linkedin.com/in/claradg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
+</div> 
 
 
 ## About me
@@ -17,7 +16,12 @@
 - 🗣️ I like learning languages
 - 📫 You can find my contact details and more [here](https://www.claradigregorio.com).
 
+
 ## Skills
+
+<div id="skills" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS"/>
+</div> 
 
 
 
