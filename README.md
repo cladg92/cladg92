@@ -7,7 +7,7 @@
 - 🎓 I hold a Master's degree in Environmental Biology
 - 👯 I’m open for collaboration in open source projects
 - 🗣️ I like learning languages
-- 📫 You can find my contact details and more [here] (https://www.claradigregorio.com).
+- 📫 You can find my contact details and more [here](https://www.claradigregorio.com).
 
 ## Skills
 
