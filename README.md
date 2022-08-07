@@ -20,7 +20,10 @@
 ## Skills
 
 <div id="skills" >
+    <figure>
     <img style="width: 30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS"/>
+    <figcaption>JavaScript</figcaption>
+</figure>    
 </div> 
 
 
